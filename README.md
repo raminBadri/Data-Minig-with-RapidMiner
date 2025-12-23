@@ -38,7 +38,7 @@ The project covers all key steps, from **data preprocessing** and **cleansing** 
 1. Download and install [RapidMiner Studio](https://rapidminer.com/products/studio/).
 2. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/Data-Mining-with-RapidMiner.git
+   git clone https://github.com/raminBadri/Data-Mining-with-RapidMiner.git
    ```
 3. Open the `.rmp` files in RapidMiner to explore the processes.
 
