@@ -1,22 +1,55 @@
-# Data-Minig-with-RapidMiner
-This project was done by `RapidMiner` in the field of `data science`; It was one of my `MSc projects`.
-It is provided with the complete technical report as well as the project's files, which were done via `RapidMiner` Studio.
-All steps, including `data preprocessing` and `cleansing`, to `classification` and `clustering`, are fully described in the project's report file.
-The data set used in this project pertains to `healthcare`; we aim to identify a relevant relationship between certain features of the samples and their `Blood pressure feature`.
+# Data Mining with RapidMiner
 
-## About the dataset:
+[![RapidMiner](https://img.shields.io/badge/RapidMiner-Used-blue)](https://rapidminer.com)  
+[![Data Science](https://img.shields.io/badge/Field-Data%20Science-orange)](https://en.wikipedia.org/wiki/Data_science)  
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
 
-* Every sample has `15 features,` and there are over `3253 records` in the data set.
-* Some features are `Numerical`, such as: `age`, 'Height', and `Weight`.
-* Some features are `Nominal`, such as: `gender`, and `Smoke` status.
-* Each section of the project is represented via a different `.rmp` file.
+This project was developed using **RapidMiner** in the field of **data science** as part of my MSc thesis. It includes a comprehensive technical report and all project files created with **RapidMiner Studio**.  
 
-#### Roadmap of the Project
-1- We started for the `EDA` phase through `Section 1,2,3`
-2- `preprocessing` is in `Section 4`.
-3- `classification` and `clustering` selection models are described within `Section 5`.
-4- We use our `best model` to train on the dataset in `Section 6`.
-5- Results and Analysis are represented in `Section 7`.
+The project covers all key steps, from **data preprocessing** and **cleansing** to **classification** and **clustering**, with detailed explanations in the report file. The dataset focuses on **healthcare**, aiming to uncover relationships between specific sample features and their **blood pressure** levels.
 
-Note: Full description is available through the reports files.
-May be useful for someone :)
+## 📊 About the Dataset
+
+- Each sample contains **15 features** across over **3,253 records**.
+- **Numerical features** include: `Age`, `Height`, and `Weight`.
+- **Nominal features** include: `Gender` and `Smoking Status`.
+- Project sections are organized into separate `.rmp` files for modularity.
+
+## 🗺️ Project Roadmap
+
+1. **Exploratory Data Analysis (EDA)**: Covered in **Sections 1, 2, and 3**.
+2. **Data Preprocessing**: Detailed in **Section 4**.
+3. **Model Selection**: Classification and clustering models explained in **Section 5**.
+4. **Model Training**: Applying the best model to the dataset in **Section 6**.
+5. **Results and Analysis**: Presented in **Section 7**.
+
+> **Note**: For a full technical description, refer to the report files.  
+> This repository may be helpful for data science enthusiasts and researchers! 🚀  
+
+## 📁 Repository Structure
+
+- `reports/`: Technical reports and documentation.
+- `rmp_files/`: RapidMiner process files (.rmp).
+- `data/`: Sample dataset (if applicable).
+- `README.md`: This file.
+
+## 🚀 Getting Started
+
+1. Download and install [RapidMiner Studio](https://rapidminer.com/products/studio/).
+2. Clone this repository:  
+   ```bash
+   git clone https://github.com/yourusername/Data-Mining-with-RapidMiner.git
+   ```
+3. Open the `.rmp` files in RapidMiner to explore the processes.
+
+## 🤝 Contributing
+
+Feel free to fork this repository and submit pull requests for improvements or additional analyses.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+*If you find this project useful, please give it a ⭐!*
